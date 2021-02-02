@@ -15,3 +15,10 @@ compile -->  test --> package
 ```
 
 other common goals are -- package, verify, compile
+
+
+# What is REST APi 
+REST stand for Representational State Transfer - API, these are light weight 
+api which hops of HTTP protoocal
+
+## Containers are ephermal  
